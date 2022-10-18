@@ -49,4 +49,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= '[http://g.recordit.co/4ymSXSlcmQ.gif](http://g.recordit.co/dGJze6fAU6.gif)' />
+<img src= 'http://g.recordit.co/dGJze6fAU6.gif' />
